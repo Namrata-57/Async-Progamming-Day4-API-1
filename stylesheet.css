@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: lightgrey;
+  vertical-align: middle;
+}
+
+#catImage {
+  width: 600px;
+  height: 500px;
+  object-fit: contain;
+}
+
+#heading-2 {
+  font-family: "Montserrat-Bold";
+  font-size: 4rem;
+  line-height: 1.5;
+  margin-top: 70px;
+  margin-left: 120px;
+}
+
+.container {
+  width: 400px;
+  border-bottom: 8px;
+  margin: 60px auto;
+  padding: 20px;
+  padding-top: 10px;
+  border-radius: 8px;
+}
+
+.btn {
+  position: absolute;
+  bottom: 20px;
+  right: 50px;
+}
